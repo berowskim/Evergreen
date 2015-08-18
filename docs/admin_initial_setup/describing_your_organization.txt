@@ -59,7 +59,7 @@ library entities.
 Create and edit Organizational Units 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 . Open *Admin > Server Administration > Organizational Units*.
-. In the left panel, expand the the Organizational Units hierarchy, select a
+. In the left panel, expand the Organizational Units hierarchy, select a
   unit.
 . A form opens in the right panel, displaying the data for the selected
   organizational unit.
